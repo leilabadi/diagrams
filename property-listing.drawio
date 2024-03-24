@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T15:03:10.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="vyEKIXsoYlVP2MlNHxIb" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-24T00:30:01.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="EGYXaJRnzYYV17HwZaqy" version="24.1.0" type="github" pages="2">
   <diagram id="gefiLhxsp6uJe3kQy--f" name="list property">
-    <mxGraphModel dx="1878" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="155" y="148" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPpBnfvkqHIOZeSmNuLf-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" parent="1" vertex="1">
-          <mxGeometry x="170" y="13" width="64" height="64" as="geometry" />
+          <mxGeometry x="255" y="13" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QPpBnfvkqHIOZeSmNuLf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QPpBnfvkqHIOZeSmNuLf-22" target="QPpBnfvkqHIOZeSmNuLf-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -133,11 +133,14 @@
         <mxCell id="fHEFNaBO7rFq97XNcuul-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="59krLZsqECckqpki7Z-y-2" target="59krLZsqECckqpki7Z-y-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YvY44y5vauWiFIuA0Fva-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CreateProperty - POST&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UpdateProperty - PATCH&lt;/div&gt;&lt;div&gt;DeleteProperty - DELETE&lt;/div&gt;&lt;div&gt;GetAgentProperties - GET&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=left;verticalAlign=top;spacingTop=0;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="13" width="180" height="97" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="search property" id="4BHvYEgCLGeQkOeolfoG">
-    <mxGraphModel dx="1886" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +210,7 @@
           <mxGeometry x="79" y="30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="abfQ2oCoB_8d-9mrjrHR-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" parent="1" vertex="1">
-          <mxGeometry x="519" y="28" width="64" height="64" as="geometry" />
+          <mxGeometry x="476" y="28" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="GJ6jKN87m-i0rrffg3H5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GJ6jKN87m-i0rrffg3H5-1" target="zsL3Dnd2-GXYHZYfqNPw-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +228,7 @@
           <mxGeometry x="709" y="504" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HGqIbAUMYjI8Z3ijfEXn-2" value="Authentication&lt;div&gt;Rate Limiting&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="174" width="100" height="84" as="geometry" />
+          <mxGeometry x="490" y="195" width="100" height="84" as="geometry" />
         </mxCell>
         <mxCell id="HGqIbAUMYjI8Z3ijfEXn-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HGqIbAUMYjI8Z3ijfEXn-2" target="zsL3Dnd2-GXYHZYfqNPw-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -235,6 +238,9 @@
         </mxCell>
         <mxCell id="kDUdI9kDRkmOZ2Gxqv94-1" value="Google Analytics" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="40" y="528" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="7XXbu7QQJyTrtzlgUDVI-1" value="&lt;div&gt;SearchProperty - GET&lt;/div&gt;&lt;div&gt;SearchPropertyOnMap - POST&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=left;verticalAlign=top;spacingTop=0;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="610" y="10" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
