@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K3NKv6Qhj0mhAyRTtThp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L47VmO09IX6jQb7W13hx-1" target="K3NKv6Qhj0mhAyRTtThp-30" edge="1">
+        <mxCell id="K3NKv6Qhj0mhAyRTtThp-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L47VmO09IX6jQb7W13hx-1" target="K3NKv6Qhj0mhAyRTtThp-30" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="630" as="targetPoint" />
+            <mxPoint x="797" y="679" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L47VmO09IX6jQb7W13hx-1" value="BorrowersApi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="353" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-3" value="CreateProject" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K3NKv6Qhj0mhAyRTtThp-1" target="L47VmO09IX6jQb7W13hx-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-1" value="Borrower" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="398" y="190" width="30" height="60" as="geometry" />
+          <mxGeometry x="745" y="239" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K3NKv6Qhj0mhAyRTtThp-2" target="K3NKv6Qhj0mhAyRTtThp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-2" value="Lenders" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="535" y="190" width="30" height="60" as="geometry" />
+          <mxGeometry x="882" y="239" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-4" target="K3NKv6Qhj0mhAyRTtThp-30">
           <mxGeometry x="-0.6364" relative="1" as="geometry">
@@ -30,13 +30,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-4" value="LendersApi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="837" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-6" target="K3NKv6Qhj0mhAyRTtThp-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-6" value="Project/&lt;br&gt;Investment DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="260" y="501" width="70" height="80" as="geometry" />
+          <mxGeometry x="607" y="550" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-14" value="Credit&lt;br&gt;Check" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-12" target="DxbH5qKy1HPSEgD5z3BD-8">
           <mxGeometry relative="1" as="geometry">
@@ -44,13 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-12" value="Investment Request Processor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="987" y="809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-16" value="&lt;div&gt;Project:&lt;/div&gt;Id&lt;div&gt;ProjectDescription&lt;/div&gt;&lt;div&gt;InvestmentAmount&lt;br&gt;---------------------&lt;br&gt;Investment:&lt;br&gt;Id&lt;div&gt;Amount&lt;/div&gt;&lt;div&gt;Timestamp&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="200" y="320" width="110" height="140" as="geometry" />
+          <mxGeometry x="547" y="369" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-17" value="Investment Requests&lt;br&gt;Queue" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="660" y="590" width="60" height="100" as="geometry" />
+          <mxGeometry x="1017" y="639" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-18" value="Trigger" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="K3NKv6Qhj0mhAyRTtThp-17" target="K3NKv6Qhj0mhAyRTtThp-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-21" value="Notification&lt;div&gt;Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="387" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-23" value="Notification&lt;div&gt;Queue&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="70" y="587.5" width="60" height="105" as="geometry" />
+          <mxGeometry x="417" y="636.5" width="60" height="105" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-26" target="K3NKv6Qhj0mhAyRTtThp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-26" value="Email Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="387" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-31" value="Save/Fetch&lt;br&gt;Project/Investment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="K3NKv6Qhj0mhAyRTtThp-30" target="K3NKv6Qhj0mhAyRTtThp-6" edge="1">
           <mxGeometry x="-0.2181" y="-15" relative="1" as="geometry">
@@ -79,13 +79,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-3" value="Investment&lt;br&gt;Request&lt;br&gt;Received" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-30" target="K3NKv6Qhj0mhAyRTtThp-17">
-          <mxGeometry y="30" relative="1" as="geometry">
+          <mxGeometry x="-0.0364" y="29" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-27" value="Trigger" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DxbH5qKy1HPSEgD5z3BD-29" target="DxbH5qKy1HPSEgD5z3BD-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.9999999999998" y="1040" as="targetPoint" />
+            <mxPoint x="1386.9999999999998" y="1089" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-33" value="Lender&lt;br&gt;Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-30" target="DxbH5qKy1HPSEgD5z3BD-29">
@@ -94,10 +94,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K3NKv6Qhj0mhAyRTtThp-30" value="InvestmentService" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="767" y="659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-1" value="&lt;div&gt;The problem:&lt;/div&gt;&lt;div&gt;For many years Ebury has had a lending product to help their clients with their projects. However, we don’t have the financial capacity to support all our clients&#39; needs and we have to let go of some interesting opportunities.&lt;/div&gt;&lt;div&gt;Due to this situation we have decided to create a lending marketplace, where our existing clients can show to the world their projects and attract potential lenders that can lend them money for their projects for some credit conditions (e.g. returning the money plus a 5% in 1 year).&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Please design a product, a market place, where borrowers and lenders can collaborate.&lt;br&gt;-----------------------------------&lt;br&gt;&lt;div&gt;users 1m&lt;/div&gt;&lt;div&gt;highly available&lt;/div&gt;&lt;div&gt;Any UI (Web/Mobile)&lt;/div&gt;&lt;div&gt;Concurrency - Rejection&lt;/div&gt;&lt;div&gt;Credit Checks for Lenders&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Functionalities:&lt;/div&gt;&lt;div&gt;borrowers&lt;/div&gt;&lt;div&gt;- CreateProject&lt;/div&gt;&lt;div&gt;- InvestmentProgress&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;lenders&lt;/div&gt;&lt;div&gt;- ListProjects&lt;/div&gt;&lt;div&gt;- LendingRequest&lt;/div&gt;&lt;div&gt;- CancelLending&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BorrowerApi:&lt;/div&gt;&lt;div&gt;GET - /api/v1/Borrowers/{bid}/Projects&lt;/div&gt;&lt;div&gt;GET - /api/v1/Borrowers/{bid}/Projects/{pid}&lt;/div&gt;&lt;div&gt;POST - /api/v1/projects - project details, Investment Value&lt;/div&gt;&lt;div&gt;GET -&amp;nbsp; /api/v1/InvestmentRequests&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LenderApi:&lt;/div&gt;&lt;div&gt;GET - /api/v1/Projects&lt;/div&gt;&lt;div&gt;GET - /api/v1/Projects/{id}&lt;/div&gt;&lt;div&gt;POST - /api/v1/LendingRequests - Amount&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="41" width="400" height="540" as="geometry" />
+          <mxGeometry x="987" y="90" width="400" height="540" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-26" value="Notify" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DxbH5qKy1HPSEgD5z3BD-8" target="DxbH5qKy1HPSEgD5z3BD-15">
           <mxGeometry x="0.2544" relative="1" as="geometry">
@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-8" value="Credit Check Service (3rd Party)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1267" y="809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="K3NKv6Qhj0mhAyRTtThp-26" target="K3NKv6Qhj0mhAyRTtThp-2">
           <mxGeometry relative="1" as="geometry" />
@@ -116,14 +116,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-15" value="Credit Result Web Hook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="865" width="120" height="60" as="geometry" />
+          <mxGeometry x="987" y="914" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-17" value="Credit Results Queue" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="590" y="970" width="60" height="110" as="geometry" />
+          <mxGeometry x="937" y="1019" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-18" value="Trigger" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DxbH5qKy1HPSEgD5z3BD-17" target="DxbH5qKy1HPSEgD5z3BD-24">
           <mxGeometry x="0.4403" relative="1" as="geometry">
-            <mxPoint x="765" y="793" as="targetPoint" />
+            <mxPoint x="1112" y="842" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -133,27 +133,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-24" value="Credit Result Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="865" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="914" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-32" value="Complete&lt;br&gt;Investment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DxbH5qKy1HPSEgD5z3BD-28" target="K3NKv6Qhj0mhAyRTtThp-30">
           <mxGeometry x="-0.7143" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="740" />
-              <mxPoint x="450" y="740" />
+              <mxPoint x="537" y="789" />
+              <mxPoint x="797" y="789" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-28" value="Investment Completion Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="865" width="120" height="60" as="geometry" />
+          <mxGeometry x="477" y="914" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-29" value="Lender Approved&lt;div&gt;Queue&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="354" y="840" width="60" height="110" as="geometry" />
+          <mxGeometry x="701" y="889" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DxbH5qKy1HPSEgD5z3BD-36" value="Lender Rejected/&lt;br&gt;Investment Completed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="0.271" y="20" relative="1" as="geometry">
-            <mxPoint x="419.9999999999998" y="640" as="sourcePoint" />
-            <mxPoint x="152.49999999999977" y="640" as="targetPoint" />
+            <mxPoint x="766.9999999999998" y="689" as="sourcePoint" />
+            <mxPoint x="499.4999999999998" y="689" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
